@@ -1,2 +1,11 @@
 # portofolio-
-Sales Data Analysis using Microsoft Excel.  This project demonstrates data cleaning, pivot table analysis, and dashboard creation to visualize sales performance.
+Hi, my name is faezi 
+## Skills 
+- Excel
+- Data Analysis
+- Data Entry
+
+## Projects
+- Sales Dashboard (Excel pivot)
+- Data Cleaning Project
+
